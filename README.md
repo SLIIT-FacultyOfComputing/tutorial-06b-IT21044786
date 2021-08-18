@@ -15,6 +15,7 @@ Using the Student.h and Student.cpp Implement the ```Student``` class
 2.	Add a method called ```assignDetails()``` to assign the ```studentid``` and ```name```
 3.	Add a method called ```display()``` to display the ```studentid``` and ```name```
 
+
 ```c++
 class Student {
   // private section
